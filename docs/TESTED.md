@@ -32,7 +32,7 @@ To aid users in troubleshooting, we've compiled a list of users who've reported 
 | ^^ | ^^ | K-Hobert | ^^ | Unknown | ^^ |
 | ^^ | ^^ | cboukouv | ^^ | 0.0.21 | ^^ |
 | MacBookAir6,1 | <span style="color:red"> NO </span> | N/A | N/A | N/A | N/A |
-| MacBookAir6,2 | ^^ | ^^ | ^^ | ^^ | ^^ |
+| MacBookAir6,2 | <span style="color:#30BCD5"> YES </span> | Sm982 | Stock | v0.6.7 | Somewhat usable, no keyboard backlight by default.  |
 
 :::
 
